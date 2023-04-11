@@ -1,0 +1,97 @@
+/* *
+{
+    margin: 0;
+    padding: 0;  
+} */
+img
+{
+    border: 3px solid blue;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    background: rgba(0, 0, 0, 0.7) url('Images/creative-abstract-sql-illustration_52683-79681.webp');
+    background-size: cover;
+    /* background-blend-mode: darken; */
+}
+div
+{
+    display: flex;
+    flex-direction: column;
+}
+button 
+{
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+/* button :hover
+{
+    
+    border: solid black;
+} */
+a
+{
+    
+    text-decoration: none;
+    color: black;
+}
+li
+{
+    list-style: none;
+    padding: 10px 0;
+}
+li a:hover
+{
+    border: red;
+    color: black;
+    border-style:ridge;
+    border-radius: 10px;
+    padding: 0px 5px ;
+    margin: 100 0px;
+}
+div a img 
+{
+    /* display: flex; */
+    /* flex-direction: column;  */
+    height: 700px;
+    width: 900px;
+    /* justify-content: center; */
+    /* align-items: center;
+    text-align: center; */
+}
+li
+{
+    font-size: 40px;
+}
+div p
+{
+    font-size: 35px;
+}
+
+div h1
+{
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    /* align-items: center;
+    align-content: center; */
+}
+div h2
+{
+    font-size: 45px;
+}
+
+section a img
+{
+    height: 400px;
+    width: 400px;
+    padding: 0px 70px;
+}
